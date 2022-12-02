@@ -1,4 +1,4 @@
-Week 11 homework for UNH Full-Stack Web Development Boot Camp
+Week 11 homework
 
 ---
 
@@ -19,3 +19,10 @@ The goal of this project was to modify starter code to create an application cal
 - When the user clicks the Write icon in the navigation bar at the top of the page, then they are presented with empty field to enter a new note title and text in the right-hand column.
 
 ---
+
+
+github repo;
+https://github.com/arellanoe/mod-11-eduardo-arellano-notetaker
+
+Live URL;
+https://blooming-brook-39944.herokuapp.com/
